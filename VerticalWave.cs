@@ -10,5 +10,6 @@ namespace MissionPlanner.Swarm
     /// </summary>
     class VerticalWave
     {
+        //
     }
 }
